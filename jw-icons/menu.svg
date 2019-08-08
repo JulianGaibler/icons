@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>menu</title>
+  <path d="M0,0H24V24H0Z" style="fill: none"/>
+  <g>
+    <circle cx="8" cy="8" r="1.5"/>
+    <circle cx="16" cy="8" r="1.5"/>
+    <circle cx="8" cy="16" r="1.5"/>
+    <circle cx="16" cy="16" r="1.5"/>
+  </g>
+</svg>
